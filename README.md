@@ -13,3 +13,8 @@ This desktop application is designed to experiment with source code clustering t
   - **PPwS**: Preprocessing with Stemming.
   - **PPWoS**: Preprocessing Without Stemming.
 - **Noisy Dataset Handling**: Evaluate clustering effectiveness on both normal and noisy datasets.
+
+## Results
+The results for the paper "Model-Driven Engineering and Machine Learning for Enhancing Legacy Systems Modernization" can be downloaded from the link below.
+
+[Results](./Data/Results.xlsx)
